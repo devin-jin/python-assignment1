@@ -8,3 +8,4 @@ for i in range(42):
 t.hideturtle()
 t.done()
 print('this is a test')
+print('this is a test')
