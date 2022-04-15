@@ -7,3 +7,4 @@ for i in range(42):
    t.left(90)
 t.hideturtle()
 t.done()
+print('this is a test')
